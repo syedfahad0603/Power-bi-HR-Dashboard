@@ -22,7 +22,7 @@ This dashboard was built as part of a workshop by **Office Master**
 to visualize HR analytics and practice data storytelling.
 
 ## 🔗 Video Demonstration
-[LinkedIn Post with Video Demo](https://www.linkedin.com/in/your-profile)
+[LinkedIn Post with Video Demo](https://www.linkedin.com/posts/syed-fahadfahad_powerbi-dataanalytics-hranalytics-activity-7329841943864049664-jjIi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEE2lYUBsyVnp8qEFeyRsaKIA2WG5DcuvzI)
 
 ---
 
